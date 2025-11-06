@@ -1,7 +1,7 @@
 # SkillMicroProject
 Skill microproject made by Sai Chavan[26] And Rajas Deshpande[32]. Sy-CSE-2
 
-This project is made by Sai Chavan and Rajas Deshpande from IntBtech SY-CSE-2 From Mit-wpu 
+This project is made by Sai Chavan and Rajas Deshpande from IntBtech SY-CSE-2
 Pls refrain from copying the project. This was made with dedication and hardwork.
 
 ABOUT THE PROJECT:
