@@ -44,6 +44,7 @@ The goal of KickVerse was to move beyond basic exercises and create a real-world
 ├── assets/             # Images, icons, and media files
 ├── css/                # Stylesheets (Layout and Design)
 ├── pages/              # Additional sub-pages for specific features
+├── LICENSE             # Legal protection and authorship details
 └── README.md           # Project documentation
 ```
 ---
