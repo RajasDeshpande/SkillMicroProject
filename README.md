@@ -1,4 +1,4 @@
-# KickVerse 👟
+# 👟 KickVerse 👟
 
 **A premium web experience dedicated to sneaker culture, built using HTML5 and CSS3.**
 
@@ -7,10 +7,12 @@ KickVerse is a technical showcase developed for the **Skill Development Course (
 ---
 
 ## 👥 Authors
-* **Rajas Deshpande** (Roll No: 32)
-* **Sai Chavan** (Roll No: 26)
-* **Batch:** IntBtech SY-CSE-2, MIT World Peace University
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Rajas Deshpande** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajasDeshpande) |
+| **Sai Chavan** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiChavan6189) |
 
+**Batch:** IntBtech SY-CSE-2, MIT World Peace University
 ---
 
 ## 📖 Project Overview
@@ -27,11 +29,16 @@ The goal of KickVerse was to move beyond basic exercises and create a real-world
 ---
 
 ## 🛠️ Tech Stack & Structure
-* **Language:** HTML5, CSS3
-* **Tools:** VS Code, Git
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
+---
   
   ---
-* **Organization:**
+## **📂 Repository Structure**
  ```text
 ├── index.html          # Main landing page
 ├── assets/             # Images, icons, and media files
@@ -42,8 +49,12 @@ The goal of KickVerse was to move beyond basic exercises and create a real-world
 ---
 
 ## 🚀 Live Demo
-You can view the live project here:  
-[**https://rajasdeshpande.github.io/KickVerse/**](https://rajasdeshpande.github.io/KickVerse/)
+
+| Platform | Visit |
+| :--- | :--- |
+| ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) | [**Visit the Live Project**](https://rajasdeshpande.github.io/KickVerse/) |
+
+---
 
 ---
 
@@ -52,7 +63,8 @@ You can view the live project here:
 
 This project is a proprietary academic submission. No part of this repository—including code, design, and assets—may be reproduced, distributed, or transmitted in any form without the explicit prior written permission of the authors. 
 
-**Plagiarism Notice:** This work is original and intended for academic review at MIT-WPU. Any unauthorized copying will be reported to the department.
+> [!WARNING]
+> **Anti-Plagiarism Notice:** This project is a result of original effort and academic integrity. Please refrain from copying the source code or design.
 
 ---
 *Developed with dedication and passion for the culture.*
